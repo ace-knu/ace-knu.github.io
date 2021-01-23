@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Blog"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -10,3 +10,47 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Introduction
+    children:
+      - title: "Overview"
+        url: /docs/overview/
+      - title: "Latest News"
+        url: /docs/news/
+
+  - title: Research
+    children:
+      - title: "Intermittent Computing"
+        url: /docs/ic/
+      - title: "SW with NVRAM"
+        url: /docs/nvram/
+      - title: "AUTOSAR"
+        url: /docs/autosar/
+
+  - title: Members
+    children:
+      - title: "Ph. D Students"
+        url: /docs/members/phd/
+      - title: "Master Students"
+        url: /docs/members/master/
+      - title: "Undergraduate Students"
+        url: /docs/members/under/
+      - title: "Alumni"
+        url: /docs/members/alumni/
+
+  - title: Pulications
+    url: /docs/pub/
+
+  - title: Education
+    children:
+      - title: "Embedded C Programming"
+        url: /docs/blog/c/
+      - title: "Linux"
+        url: /docs/blog/linux/
+      - title: "AUTOSAR"
+        url: /docs/blog/autosar/
+
+  - title: Contacts
+    url: /docs/contacts/
+
