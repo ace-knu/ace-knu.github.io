@@ -14,7 +14,7 @@ title: Software with NVRAM
 
 ## NVRAM Architecture
 
-- NVRAM Architecture란?
+- NVRAM 구조란?
   - 설명
 
 
@@ -23,7 +23,7 @@ title: Software with NVRAM
 
 ## Software with NVRAM
 
-- 
+- NVRAM 시스템에 대한 소프트웨어
 
 
 
