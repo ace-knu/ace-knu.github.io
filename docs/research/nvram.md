@@ -1,7 +1,19 @@
 ---
 layout: single
-title: SW with NVRAM
+title: Software with NVRAM
 ---
 
-NVRAM Architecture
+
+
+# NVRAM
+
+
+
+
+
+# NVRAM Architecture
+
+
+
+
 
