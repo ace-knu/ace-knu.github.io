@@ -24,6 +24,7 @@ title: Software with NVRAM
 ## Software with NVRAM
 
 - NVRAM 구조에 대한 소프트웨어
+  - 설명
 
 
 
