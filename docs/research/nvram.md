@@ -5,13 +5,15 @@ title: Software with NVRAM
 
 
 
-# NVRAM
+## NVRAM
 
 
 
 
 
-# NVRAM Architecture
+## NVRAM Architecture
+
+
 
 
 
