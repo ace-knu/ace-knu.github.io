@@ -23,7 +23,7 @@ title: Software with NVRAM
 
 ## Software with NVRAM
 
-- NVRAM 시스템에 대한 소프트웨어
+- NVRAM 구조에 대한 소프트웨어
 
 
 
