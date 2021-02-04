@@ -1,5 +1,8 @@
 ---
 layout: single
+toc: true
+toc_label: "목차"
+toc_icon: "cog"
 title: Software with NVRAM
 ---
 
