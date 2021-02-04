@@ -5,7 +5,7 @@ title: Intermittent Computing
 
 
 
-## 인터미턴트 컴퓨팅(Intermittent Computing)이란?
+## Intermittent Computing 이란?
 - 에너지 하베스팅(Enger Harvesting)을 통해 적절한 에너지 레벨을 넘어서면 컴퓨팅이 진행되고 이후 에너지가 소모되어 특정 이하의 에너지 레벨이 되면 컴퓨팅을 중지하고 에너지를 다시 충전하게 되는 프로세스를 반복함
 
   ![01_intermittent_computing](/assets/img/ic/01_intermittent_computing.png)
