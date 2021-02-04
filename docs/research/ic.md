@@ -39,7 +39,7 @@ Title: Intermittent Computing
 * 체크포인트는 휘발성 메모리의 데이터를 비휘발성 메모리에 백업하고 시스템이 정지하고 다시 동작하게 될 때 해당 백업 데이터를 다시 복구하고 그 시점부터 다시 동작하는 루틴을 가짐
 * 프로그래머가 직접 체크포인트를 삽입하여야 하므로 타겟 하드웨어에 대한 지식도 필수적이므로 숙련된 개발자가 아닐 경우 비효율적인 소프트웨어를 만들게 될 수 있음 (아래 예시)
 
-![02_Sisyphean_problem](/Users/jihun/ace-knu.github.io/assets/img/ic/02_Sisyphean_problem.png)
+![02_Sisyphean_problem](../../assets/img/ic/02_Sisyphean_problem.png)
 
 
 
