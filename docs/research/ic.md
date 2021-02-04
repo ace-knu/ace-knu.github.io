@@ -1,6 +1,8 @@
 ---
 layout: single
-Title: Intermittent Computing
+title: Intermittent Computing
+toc: true
+toc_icon: "cog"
 ---
 
 ## <h3> 인터미턴트 컴퓨팅(Intermittent Computing)란? </h3>
