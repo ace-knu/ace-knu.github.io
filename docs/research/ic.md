@@ -3,7 +3,7 @@ layout: single
 Title: Intermittent Computing
 ---
 
-<h3> 인터미턴트 컴퓨팅(Intermittent Computing)란? </h3>
+## <h3> 인터미턴트 컴퓨팅(Intermittent Computing)란? </h3>
 
 
 -----------
@@ -15,7 +15,7 @@ Title: Intermittent Computing
 
 
 
-<h3> 기존 시스템과의 차이점 </h3>
+## <h3> 기존 시스템과의 차이점 </h3>
 
 ------
 
@@ -30,7 +30,7 @@ Title: Intermittent Computing
 
 
 
-<h3> 어떻게 구현되는가? </h3>
+## <h3> 어떻게 구현되는가? </h3>
 
 --------
 
@@ -44,7 +44,7 @@ Title: Intermittent Computing
 
 
 
-<h3>현재 연구</h3>
+## <h3>현재 연구</h3>
 
 -------
 
