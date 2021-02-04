@@ -24,7 +24,7 @@ title: Software with NVRAM
 
   - FRAM은 메모리 시장의 대부분을 차지하고 있는 플래시 메모리에 비해 낮은 전력 소모, 빠른 속도, 높은 쓰기/지우기 횟수 등의 여러 장점을 가지고 있음
 
-    ![fram_spec](https://ace-knu.github.io/assets/img/nvram/fram_spec.png)
+    ![fram_spec](https://ace-knu.github.io/assets/img/nvram/fram_spec1.png)
 
   - FRAM은 다른 NVRAM에 비해 대량생산 기술이 발전되어 있어 2006년 후지쯔와 램트론 인터내셔널 (Ramtron International) 사가 1메가비트 칩의 대량생산을 시작함
   - 하지만 여전히 플래시 메모리의 집적도나 낮은 가격을 실현하지 못하고 있어 스마트 카드 등의 몇몇 특수한 분야에만 경쟁력이 있음
