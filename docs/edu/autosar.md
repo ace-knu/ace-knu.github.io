@@ -16,7 +16,7 @@ title : "AUTOSAR"
 
 ## AUTOSAR 개발 과정
 
-![개발과정](http://ace-knu.github.io/assets/img/autosar/개발과정.png)
+![개발과정](https://ace-knu.github.io/assets/img/autosar/개발과정.png)
 
 - AUTOSAR 소프트웨어 개발 순서
   1. Configure System : 시스템 설정 단계로 컴포넌트의 구성/연결 등을 정의함 (Software Component Description을 개발)
@@ -32,6 +32,8 @@ title : "AUTOSAR"
 - HW와 독립적인 구조로 SW Application 재사용 가능
 
 ## AUTOSAR Layered Software Architecture
+
+![layer](https://ace-knu.github.io/assets/img/autosar/layer.png)
 
 - Application Layer
   - HW 독립적인 어플리케이션 SW를 정의함
