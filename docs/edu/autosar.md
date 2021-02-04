@@ -33,6 +33,8 @@ title : "AUTOSAR"
 
 ## AUTOSAR Layered Software Architecture
 
+![layer](https://ace-knu.github.io/assets/img/autosar/layer.png)
+
 - Application Layer
   - HW 독립적인 어플리케이션 SW를 정의함
   - SWC (SW Component)의 종류는 기능에 따라 Application, Actuator, Sensor 등으로 구별함
