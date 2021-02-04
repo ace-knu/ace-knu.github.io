@@ -8,5 +8,4 @@ layout: single
 
 #### AI란?
 
-> - Artificial Intelligence
 
