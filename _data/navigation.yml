@@ -32,6 +32,8 @@ docs:
 
   - title: Members
     children:
+      - title: "Professor"
+        url: /docs/members#prof/
       - title: "Ph. D Students"
         url: /docs/members#phd/
       - title: "Master Students"
