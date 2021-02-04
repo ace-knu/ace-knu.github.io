@@ -10,6 +10,7 @@ title: Intermittent Computing
 
   ![01_intermittent_computing](/assets/img/ic/01_intermittent_computing.png)
 
+- 시스템이 전원 부족으로 중단될 때, 데이터를 보존할 방법으로 백업/복구 루틴을 가지는 코드를 삽입하는 방식으로 개발하여 시스템의 일관성을 유지함
 
 
 ## 현재 연구
