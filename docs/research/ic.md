@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Intermittent Computing
+title: "Intermittent Computing"
 ---
 
 ## 인터미턴트 컴퓨팅(Intermittent Computing)란?
