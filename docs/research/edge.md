@@ -2,24 +2,16 @@
 layout: single
 ---
 
-## AI Edge Computing
+# AI Edge Computing이란?
 
-- ### AI란?
+- Edge단에서 AI 컴퓨팅이 수행되는 것을 의미
+- Cloud computing과 대조되는 기술
+- IoT 구조에서 Cloud computing은 수 많은 IoT 센서로부터 획득한 데이터를 저장하고 분석하는 역할을 수행했지만, 데이터 트래픽이 폭발적으로 증가할 경우 필요
 
-    - Artificial Intelligence의 약자로 말 그대로 인공지능이라는 의미이다.
-    - AI는 크게 narrow와 general로 나누거나 weak 또는 strong으로 분류될 수 있다.
 
-    | Narrow / Weak                                  | General / Strong                      |
-    | ---------------------------------------------- | ------------------------------------- |
-    | 미리 정의된 규칙의 모음을 이용해 지능을 흉내냄 | 스스로 사고하며 문제를 해결할 수 있음 |
 
-    
+(/assets/img/edge/edge_computing.png)
 
-    ### Edge Computing이란?
+- 이전에는 각각의 IoT 디바이스들이 단순하게 데이터를 클라우드 쪽으로 공급하여 클라우드에서 인공지능을 이용하여 모든 분석과 의사결정을 수행했음
+- 하지만, 지금은 엣지 디바이스의 프로세싱 파워와 메모리 등이 인공지능 알고리즘을 지원할 만큼 강력해졌고, 중앙 서버로 데이터를 전송할 필요가 줄어들었기 때문에 서버(클라우드)에서만 수행되던 지능이 엣지로 이동하고 있음
 
-    - Cloud computing과 대조되는 기술
-    - IoT 구조에서 Cloud computing은 수 많은 IoT 센서로부터 획득한 데이터를 저장하고 분석하는 역할을 수행했지만, 데이터 트래픽이 폭발적으로 증가할 경우
-
-    
-
-    (/asset\edge_computing.png)gence
