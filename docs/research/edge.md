@@ -2,7 +2,7 @@
 layout: single
 ---
 
-
+# AI Edge Computing
 
 ### AI Edge Computing이란?
 
@@ -13,7 +13,7 @@ layout: single
 
 
 
-![structure](/assets/img/edge/structure.png)
+
 
 ### AI Edge Computing의 필요성
 
