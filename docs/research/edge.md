@@ -4,8 +4,9 @@ title: "Edge Computing"
 ---
 
 ## AI Edge Computing이란?
-![edge_computing](../../assets/img/edge/edge_computing.png)
 - Edge단에서 AI 컴퓨팅이 수행되는 것을 의미
+![edge_computing](../../assets/img/edge/edge_computing.png)
+
 - 미래에는 인공지능을 갖고 있는 엣지들이 서로 협업하여 엣지 각각의 프라이빗 목적을 수행하면서 공공의 목적을 달성하기 위해 동작하는 협업 AI 엣지 컴퓨팅으로 발전할 것으로 기대됨
 
 ## AI Edge Computing의 필요성
