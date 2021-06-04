@@ -1,10 +1,11 @@
 ---
 layout: single
+title: "Edge Computing"
 ---
 
 
 
-### AI Edge Computing이란?
+## AI Edge Computing이란?
 
 ![edge_computing](../../assets/img/edge/edge_computing.png)
 
@@ -15,7 +16,7 @@ layout: single
 
 
 
-### AI Edge Computing의 필요성
+## AI Edge Computing의 필요성
 
 - 클라우드 컴퓨팅에 비해 **지연시간** **(latency)**이 짧고 해킹 가능성이 낮으며 광범위한 이동성을 지원할 수 있다는 점에서 강점
 - 장치에서 직접 AI, 빅데이터 등 컴퓨팅이 수행됨으로써 **네트워크에 대한 의존도를 상대적으로 크게 낮출 수 있는 기술**로 평가
