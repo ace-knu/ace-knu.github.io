@@ -33,13 +33,13 @@ docs:
   - title: Members
     children:
       - title: "Professor"
-        url: /docs/members#prof/
+        url: /docs/members/prof/
       - title: "Ph. D Students"
-        url: /docs/members#phd/
+        url: /docs/members/phd/
       - title: "Master Students"
-        url: /docs/members#master/
+        url: /docs/members/master/
       - title: "Undergraduate Students"
-        url: /docs/members#under/
+        url: /docs/members/under/
       - title: "Alumni"
         url: /docs/members/alumni/
 
