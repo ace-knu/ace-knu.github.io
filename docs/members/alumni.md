@@ -1,5 +1,5 @@
 ---
 layout: single
-title: "학부생"
+title: "졸업생"
 ---
 

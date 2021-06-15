@@ -1,12 +1,18 @@
 ---
 layout: single
-title: "교수"
+title: "박사과정"
 ---
 
-## 조정훈
+## 김형래
 
-test image
+![hrkim](../../assets/img/member/hrkim.PNG)
 
 
 
-![test](../../assets/test.png)
+## 김지훈
+
+![jhkim](../../assets/img/member/jhkim.jpg)
+
+## 곽준호
+
+![jhkwak](../../assets/img/member/jhkwak.PNG)
