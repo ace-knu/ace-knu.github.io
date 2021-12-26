@@ -20,16 +20,15 @@ docs:
         url: /docs/news/
 
   - title: Research
-    url: /docs/research/
-    # children:
-    #   - title: "Intermittent Computing"
-    #     url: /docs/research/ic/
-    #   - title: "AI Edge Computing"
-    #     url: /docs/research/edge/
-    #   - title: "SW with NVRAM"
-    #     url: /docs/research/nvram/
-    #   - title: "Automotive SW"
-    #     url: /docs/research/automotive/
+    children:
+      - title: "Intermittent Computing"
+        url: /_posts/2021-10-25-ic
+      - title: "AI Edge Computing"
+        url: /_posts/2021-10-25-edge
+      - title: "SW with NVRAM"
+        url: /_posts/2021-10-25-nvram
+      - title: "Automotive SW"
+        url: /_posts/2021-10-25-automotive
 
   - title: Members
     children:
