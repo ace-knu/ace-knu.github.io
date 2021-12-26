@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: research
 title: "AUTOSAR"
 categories:
     - research
