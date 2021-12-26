@@ -6,7 +6,6 @@ categories:
 tags: 
     - C/C++
     - AUTOSAR
-toc: true
 ---
 
 ## 연구의 필요성
