@@ -280,7 +280,7 @@ defaults:
       share: true
       related: true
       sidebar:
-      nav: "docs"
+        nav: "docs"
   # _pages
   - scope:
       path: ""
@@ -288,5 +288,5 @@ defaults:
     values:
       layout: single
       sidebar:
-      nav: "docs"
+        nav: "docs"
 
