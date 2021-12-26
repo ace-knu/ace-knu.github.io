@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: single
 title: "AUTOSAR"
 categories:
     - research
