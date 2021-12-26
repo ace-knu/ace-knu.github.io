@@ -291,7 +291,7 @@ defaults:
         nav: "docs"
   # _research
   - scope:
-      path: "/docs"
+      path: ""
       type: research
     values:
       layout: single
