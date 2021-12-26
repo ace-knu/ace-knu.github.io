@@ -22,13 +22,13 @@ docs:
   - title: Research
     children:
       - title: "Intermittent Computing"
-        url: /_posts/2021-10-25-ic
+        url: /_posts/2021-10-25-ic.md
       - title: "AI Edge Computing"
-        url: /_posts/2021-10-25-edge
+        url: /_posts/2021-10-25-edge.md
       - title: "SW with NVRAM"
-        url: /_posts/2021-10-25-nvram
+        url: /_posts/2021-10-25-nvram.md
       - title: "Automotive SW"
-        url: /_posts/2021-10-25-automotive
+        url: /_posts/2021-10-25-automotive.md
 
   - title: Members
     children:
