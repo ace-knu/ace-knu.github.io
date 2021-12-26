@@ -289,13 +289,4 @@ defaults:
       layout: single
       sidebar:
         nav: "docs"
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comment: true
 
