@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: pages
 title: "[DGIST] AUTOSAR 기반 SW 개발 관련 업무협의 (2021.12.27)"
 categories: 
     - news
