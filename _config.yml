@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "ACE Lab. at KNU"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Architecture & Compiler for Embedded Systems"# site tagline that appears below site title in masthead
 name                     : "ACE Lab"
 description              : "An amazing website."
 url                      : "https://ace-knu.github.io"
