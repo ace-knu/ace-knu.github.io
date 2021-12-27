@@ -8,9 +8,10 @@ tags:
     - autosar
 ---
 
+[드림에이스](https://drimaes.com/)와 AUTOSAR 기반 SW 개발 업무협의를 온라인으로 진행하였습니다.
+
 ![Drimaes logo](/assets/img/post/drimaes_logo.png)
 
-[드림에이스](https://drimaes.com/)와 AUTOSAR 기반 SW 개발 업무협의를 온라인으로 진행하였습니다.
 
 ![드림에이스 업무 협의](/assets/img/post/2021.12.27_drimaes_small.png)
 
