@@ -1,10 +1,10 @@
 ---
-layout: posts
-title: "AUTOSAR"
+# layout: posts
+title: "Automotive SW"
 categories:
     - research
 tags: 
-    - C/C++
+    - c/c++
     - AUTOSAR
 ---
 
