@@ -2,7 +2,7 @@
 # layout: posts
 title: "Automotive SW"
 categories:
-    - research
+    - pages
 tags: 
     - c/c++
     - AUTOSAR
