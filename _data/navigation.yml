@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Blog"
-    url: /docs/blog/
+  # - title: "Blog"
+    # url: /etc/2021-10-24-welcome
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    # url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -11,50 +11,54 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
+nav:
   - title: Introduction
     children:
       - title: "Overview"
-        url: /index.html
+        url: /info/welcome/
+      - title: Members
+        url: /info/members/
       - title: "Latest News"
-        url: /docs/news/
+        url: /categories/news/
 
   - title: Research
+    url: /categories/research/
     children:
       - title: "Intermittent Computing"
-        url: /docs/research/ic/
+        url: /tags/ic/
       - title: "AI Edge Computing"
-        url: /docs/research/edge/
+        url: /tags/edge/
       - title: "SW with NVRAM"
-        url: /docs/research/nvram/
+        url: /tags/nvram/
       - title: "Automotive SW"
-        url: /docs/research/automotive/
+        url: /tags/automotive/
 
-  - title: Members
-    children:
-      - title: "Professor"
-        url: /docs/members/prof/
-      - title: "Ph. D Students"
-        url: /docs/members/phd/
-      - title: "Master Students"
-        url: /docs/members/master/
-      - title: "Undergraduate Students"
-        url: /docs/members/under/
-      - title: "Alumni"
-        url: /docs/members/alumni/
+
+    # children:
+    #   - title: "Professor"
+    #     url: /docs/members/prof/
+    #   - title: "Ph. D Students"
+    #     url: /docs/members/phd/
+    #   - title: "Master Students"
+    #     url: /docs/members/master/
+    #   - title: "Undergraduate Students"
+    #     url: /docs/members/under/
+    #   - title: "Alumni"
+    #     url: /docs/members/alumni/
 
   - title: Publications
-    url: /docs/pub/
+    url: /info/pub/
 
   - title: Education
+    url: /categories/education/
     children:
       - title: "Embedded C Programming"
-        url: /docs/edu/c/
+        url: /tags/embedded/
       - title: "Linux"
-        url: /docs/edu/linux/
+        url: /tags/linux/
       - title: "AUTOSAR"
-        url: /docs/edu/autosar/
+        url: /tags/autosar/
 
   - title: Contacts
-    url: /docs/contacts/
+    url: /info/contacts/
 

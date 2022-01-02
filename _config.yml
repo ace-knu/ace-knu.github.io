@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -145,7 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - docs # ignore Minimal Mistakes /docs
+  # - docs # ignore Minimal Mistakes /docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -280,13 +280,18 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "nav"
   - scope:
       path: ""
-      type: pages
+      type: info
     values:
       layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
       sidebar:
-        nav: "docs"
+        nav: "nav"
     
 
