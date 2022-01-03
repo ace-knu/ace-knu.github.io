@@ -15,23 +15,23 @@ nav:
   - title: Introduction
     children:
       - title: "Overview"
-        url: /info/welcome/
+        url: /info/welcome
       - title: Members
-        url: /info/members/
+        url: /info/members
       - title: "Latest News"
-        url: /categories/news/
+        url: /categories/news
 
   - title: Research
-    url: /categories/research/
+    url: /categories/research
     children:
       - title: "Intermittent Computing"
-        url: /tags/ic/
+        url: /tags/ic
       - title: "AI Edge Computing"
-        url: /tags/edge/
+        url: /tags/edge
       - title: "SW with NVRAM"
-        url: /tags/nvram/
+        url: /tags/nvram
       - title: "Automotive SW"
-        url: /tags/automotive/
+        url: /tags/automotive
 
 
     # children:
@@ -47,18 +47,18 @@ nav:
     #     url: /docs/members/alumni/
 
   - title: Publications
-    url: /info/pub/
+    url: /info/pub
 
   - title: Education
-    url: /categories/education/
+    url: /categories/education
     children:
       - title: "Embedded C Programming"
-        url: /tags/embedded/
+        url: /tags/embedded
       - title: "Linux"
-        url: /tags/linux/
+        url: /tags/linux
       - title: "AUTOSAR"
-        url: /tags/autosar/
+        url: /tags/autosar
 
   - title: Contacts
-    url: /info/contacts/
+    url: /info/contacts
 
