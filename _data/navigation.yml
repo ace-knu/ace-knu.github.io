@@ -15,9 +15,9 @@ nav:
   - title: Introduction
     children:
       - title: "Overview"
-        url: "/info/2021-10-25-welcome"
+        url: "/info/welcome"
       - title: Members
-        url: /info/2021-10-25-members
+        url: /info/members
       - title: "Latest News"
         url: "/categories/news"
 
@@ -47,7 +47,7 @@ nav:
     #     url: /docs/members/alumni/
 
   - title: Publications
-    url: /info/2021-10-25-pub
+    url: /info/pub
 
   - title: Education
     url: /categories/education
@@ -60,5 +60,5 @@ nav:
         url: /tags/autosar
 
   - title: Contacts
-    url: /info/2021-10-25-contacts
+    url: /info/contacts
 
