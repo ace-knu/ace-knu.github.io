@@ -7,7 +7,7 @@ categories:
 tags:
     - member
 ---
-# Members
+
 ## Professor
 #### 조정훈
 <!-- ![jcho](/assets/img/member/jcho.PNG) -->
