@@ -15,9 +15,9 @@ nav:
   - title: Introduction
     children:
       - title: "Overview"
-        url: "/info/welcome"
+        url: "/info/2021-10-25-welcome"
       - title: Members
-        url: /info/members
+        url: /info/2021-10-25-members
       - title: "Latest News"
         url: "/categories/news"
 
@@ -47,18 +47,18 @@ nav:
     #     url: /docs/members/alumni/
 
   - title: Publications
-    url: /info/pub
+    url: /info/2021-10-25-pub
 
   - title: Education
     url: /categories/education
     children:
       - title: "Embedded C Programming"
-        url: /tags/embedded
+        url: /tags/Embedded
       - title: "Linux"
         url: /tags/linux
       - title: "AUTOSAR"
         url: /tags/autosar
 
   - title: Contacts
-    url: /info/contacts
+    url: /info/2021-10-25-contacts
 
