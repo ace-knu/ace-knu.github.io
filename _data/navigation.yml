@@ -15,11 +15,11 @@ nav:
   - title: Introduction
     children:
       - title: "Overview"
-        url: /info/welcome
+        url: "/info/welcome"
       - title: Members
         url: /info/members
       - title: "Latest News"
-        url: /categories/news
+        url: "/categories/news"
 
   - title: Research
     url: /categories/research
