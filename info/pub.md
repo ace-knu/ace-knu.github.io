@@ -8,5 +8,4 @@ tags:
     - publication
 ---
 
-# Publication
 ## International Journal
