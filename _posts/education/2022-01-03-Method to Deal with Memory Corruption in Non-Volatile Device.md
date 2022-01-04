@@ -34,7 +34,7 @@ tags:
 ## 2. Solution in Software
 ### 2.1 CRC 검사를 통한 데이터 무결성 확인
 - CRC(cyclic redundancy check) : 데이터 무결성을 확인하는 검사 방식
-![CRC](http://www.ktword.co.kr/img_data/603_1.JPG)
+![CRC](/assets/img/linux/CRC_cal.jpeg)
 - Data Write : Message + CheckSum(Remainder) bit 붙어서 쓴다.
 - Date Read : CheckSum bit가 포함된 Message를 CRC bit로 나누었을 때 0이면 올바른 데이터이며 
 그렇지 않으면 Memory Corruption이 발생했음을 확인 가능 
