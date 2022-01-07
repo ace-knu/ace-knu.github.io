@@ -78,14 +78,14 @@ Root privileges given to the user
 
 리눅스에서는 C/C++ 코드파일의 이러한 오류를 찾아주는 유용한 기능을 가지고 있다.
  
-- !!!!! 제목 확인 !!!!!
-    - 메모리 Corruption 이 자주 발생하는 함수가 쓰이는 지 확인하는 방법이다. 이 명령어를 활용하서 어디서 memory corruption 이 취약한 함수가 쓰였는지 확인하여 주의하면 좋다.
+- 메모리 Corruption 이 자주 발생하는 함수가 쓰이는 지 확인하는 방법이다. 이 명령어를 활용하서 어디서 memory corruption 이 취약한 함수가 쓰였는지 확인하여 주의하면 좋다.
 ```sh
 grep -E '(strcpy|strcat|sprintf|strlen|memcpy|fopen|gets)' code.c
 ```
 
 - FlawFinder 활용
     - 플로파인더는 C/C++ 코드를 검토하고 위험 수준에 따라 분류한 잠재적인 취약점을 보고하는 오픈소스툴이다. 대표적인 공개 정적 분석도구로 버퍼 오버플로우 문제, 포맷 문자열 문제, 레이스 조건, 형편 없는 무작위 숫자 획득 등의 알려진 위험이 있는 언어 함수의 내장 데이터베이스를 이용한다.
+
 ```c
 #include <stdio.h>
 #include <unistd.h>
