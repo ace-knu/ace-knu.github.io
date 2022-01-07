@@ -30,8 +30,10 @@ tags:
 - C언어에서는 bound 문제로 인해 많은 메모리 corruption 의 문제가 발생할 가능성이 높다.
  
 - 이러한 메모리 corruption 에 취약한 API 함수로는 문자열 함수의 strcat, strcpy, sprintf, scanf, gets 함수들이 있다. 
+
 ![img](https://upload.wikimedia.org/wikipedia/commons/4/4f/Stack_Overflow_2.png){:height="500px" width="350px"}
 ![img2](https://upload.wikimedia.org/wikipedia/commons/c/c3/Stack_Overflow_4.png){:height="500px" width="400px"}
+
 example code
 ```c
 int main(void){
