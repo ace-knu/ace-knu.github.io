@@ -5,7 +5,7 @@ categories:
     - education
 tags: 
     - C/C++
-    - Automotive SW
+    - automotive
 ---
 
 ## 들어가기 앞서...
