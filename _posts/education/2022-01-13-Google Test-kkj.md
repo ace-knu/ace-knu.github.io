@@ -5,6 +5,7 @@ categories:
     - education
 tags: 
     - C/C++
+	- Embedded
     - automotive
 ---
 
