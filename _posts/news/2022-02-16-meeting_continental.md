@@ -6,7 +6,7 @@ categories:
 tags: 
     - c/c++
     - autosar
-	- embedded
+    - embedded
 ---
 
 [콘티넨탈오토모티브일렉트로닉스](https://www.continental.com/ko-kr/) 장원식이사님과 김상호팀장님께서 우리 연구실에 방문하셔서 컨티넨탈과 학생 교류 및 재직자 교육에 대한 협력에 대하여 논의하였습니다.
