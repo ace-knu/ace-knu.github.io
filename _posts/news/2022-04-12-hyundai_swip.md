@@ -6,7 +6,7 @@ categories:
 tags: 
     - C/C++
     - autosar
-	- embedded
+    - embedded
 ---
 
 [현대자동차](https://www.hyundai.com/) 신입사원 대상으로 SWIP 과정 중 임베디드 프로그래밍과 관련된 다음의 교육 과정을 우리 연구실에서 운영을 합니다.
