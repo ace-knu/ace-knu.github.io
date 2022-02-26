@@ -19,7 +19,7 @@ tags:
 
 - 2022년 2월 9일 ~ 4월 14일 (4개 과정 6차수)
 
-![임베디드 SW 개발 프로젝트 진행](/assets/img/post/2022_02.25_Project.jpg)
+![임베디드 SW 개발 프로젝트 진행](/assets/img/post/2022.02.25_Projects.png)
 
 
 
