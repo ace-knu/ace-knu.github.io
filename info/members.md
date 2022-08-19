@@ -25,6 +25,9 @@ tags:
 #### 권수현 (DGIST)
 #### 홍재승 (SL)
 
+## Master Student
+#### 정재용 (LG이노텍)
+
 ## Undergraduate
 #### 엄희승
 #### 이송희
