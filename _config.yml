@@ -20,7 +20,7 @@ title                    : "ACE Lab. at KNU"
 title_separator          : "-"
 subtitle                 : "Architecture & Compiler for Embedded Systems"# site tagline that appears below site title in masthead
 name                     : "ACE Lab"
-description              : "An amazing website."
+description              : "ACE Lab. at KNU web page"
 url                      : "https://ace-knu.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ace-knu/ace-knu.gtihub.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
