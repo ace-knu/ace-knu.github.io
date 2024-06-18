@@ -22,18 +22,18 @@ nav:
         url: "/categories/blog"
 
   - title: Members
-    url: /info/members
+    url: /members
     children:
       - title: "Professor"
-        url: /docs/members/prof/
+        url: /members/prof/
       - title: "Ph. D Students"
-        url: /docs/members/phd/
+        url: /members/phd/
       - title: "Master Students"
-        url: /docs/members/master/
+        url: /members/master/
       - title: "Internship"
-        url: /docs/members/intern/
+        url: /members/intern/
       - title: "Alumni"
-        url: /docs/members/alumni/
+        url: /members/alumni/
 
 
   - title: Lectures

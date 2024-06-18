@@ -1,0 +1,65 @@
+# /_data/authors.yml
+
+
+jcho:
+  name        : "Jeonghun Cho"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jcho@knu.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+
+hrkim:
+  name        : "Hyungrae Kim"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jcho@knu.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+
+jhkwak:
+  name        : "Junho Kwak"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jcho@knu.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+
+jhkim:
+  name        : "Jihun Kim"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jcho@knu.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
