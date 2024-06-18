@@ -16,48 +16,62 @@ nav:
     children:
       - title: "Overview"
         url: "/info/welcome"
-      - title: Members
-        url: /info/members
       - title: "Latest News"
         url: "/categories/news"
+
+  - title: Members
+    url: /info/members
+    children:
+      - title: "Professor"
+    #     url: /docs/members/prof/
+      - title: "Ph. D Students"
+    #     url: /docs/members/phd/
+      - title: "Master Students"
+    #     url: /docs/members/master/
+      - title: "Undergraduate Students"
+    #     url: /docs/members/under/
+      - title: "Alumni"
+    #     url: /docs/members/alumni/
 
   - title: Research
     url: /categories/research
     children:
-      - title: "Intermittent Computing"
-        url: /tags/ic
-      - title: "AI Edge Computing"
+      - title: "vECU for SDV"
+        url: /tags/vecu
+      - title: "On-device Edge Computing"
         url: /tags/edge
-      - title: "SW with NVRAM"
-        url: /tags/nvram
+      - title: "Hypervisor generator for ECU"
+        url: /tags/hygen
       - title: "Automotive SW"
         url: /tags/automotive
 
+  - title: Projects
+    children:
+      - title: "Virutal ECU"
+      - title: "지역지능화사업"
+      - title: "미래형자동차 융합SW 인재양성사업"
+      - title: "On-device AI"
+      - title: "AUTOSAR-based PDC"
 
-    # children:
-    #   - title: "Professor"
-    #     url: /docs/members/prof/
-    #   - title: "Ph. D Students"
-    #     url: /docs/members/phd/
-    #   - title: "Master Students"
-    #     url: /docs/members/master/
-    #   - title: "Undergraduate Students"
-    #     url: /docs/members/under/
-    #   - title: "Alumni"
-    #     url: /docs/members/alumni/
 
   - title: Publications
     url: /info/pub
+    children:
+      - title: "Journals"
+      - title: "Proceedings"
 
   - title: Education
     url: /categories/education
     children:
+      - title: "AUTOSAR CP"
+        url: /tags/autosar
+      - title: "AUTOSAR AP"
+        url: /tags/autosar
       - title: "Embedded C Programming"
-        url: /tags/Embedded
+        url: /tags/embedded
       - title: "Linux"
         url: /tags/linux
-      - title: "AUTOSAR"
-        url: /tags/autosar
+
 
   - title: Contacts
     url: /info/contacts
