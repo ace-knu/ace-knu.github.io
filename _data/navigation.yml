@@ -18,20 +18,33 @@ nav:
         url: "/info/welcome"
       - title: "Latest News"
         url: "/categories/news"
+      - title: "Technical Blog"
+        url: "/categories/blog"
 
   - title: Members
     url: /info/members
     children:
       - title: "Professor"
-    #     url: /docs/members/prof/
+        url: /docs/members/prof/
       - title: "Ph. D Students"
-    #     url: /docs/members/phd/
+        url: /docs/members/phd/
       - title: "Master Students"
-    #     url: /docs/members/master/
-      - title: "Undergraduate Students"
-    #     url: /docs/members/under/
+        url: /docs/members/master/
+      - title: "Internship"
+        url: /docs/members/intern/
       - title: "Alumni"
-    #     url: /docs/members/alumni/
+        url: /docs/members/alumni/
+
+
+  - title: Lectures
+    url: /lectures/
+    children:
+      - title: "Regular Lectures"
+        url: /tags/autosar
+      - title: "Intensive Courses"
+        url: /tags/autosar
+      - title: "Seminar"
+        url: /tags/embedded
 
   - title: Research
     url: /categories/research
@@ -59,18 +72,6 @@ nav:
     children:
       - title: "Journals"
       - title: "Proceedings"
-
-  - title: Education
-    url: /categories/education
-    children:
-      - title: "AUTOSAR CP"
-        url: /tags/autosar
-      - title: "AUTOSAR AP"
-        url: /tags/autosar
-      - title: "Embedded C Programming"
-        url: /tags/embedded
-      - title: "Linux"
-        url: /tags/linux
 
 
   - title: Contacts
