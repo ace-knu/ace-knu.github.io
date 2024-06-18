@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[학부연수생)] 신규 학부연수생: 이하림 (학부3학년)"
+title: "[학부연수생] 신규 학부연수생: 이하림 (학부3학년)"
 categories: 
     - news
 tags: 

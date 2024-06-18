@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[학부연수생)] 신규 학부연수생 참여"
+title: "[학부연수생] 신규 학부연수생 참여"
 categories: 
     - news
 tags: 
