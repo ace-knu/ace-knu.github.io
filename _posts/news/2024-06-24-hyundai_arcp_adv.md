@@ -13,7 +13,7 @@ tags:
 
 ![hyundai logo](/assets/img/post/hyundai_logo.png)
 
-- 일시: 2024년 7월 24일 ~ 7월 27일 (AUTOSAR 심화과정)
+- 일시: 2024년 6월 24일 ~ 6월 27일 (AUTOSAR 심화과정)
 - 장소: 현대엔지비 (서울대학교)
 
 김지훈 박사과정 학생이 조교로 활동했습니다.
