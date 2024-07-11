@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "[한국통신학회] 춘계학술대회 논문 발표"
+title: "연구실 회식"
 categories: 
     - news
 tags: 
-    - someip
-    - autosar
+
 ---
 
 ACE Lab. 회식
